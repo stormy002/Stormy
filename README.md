@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil da Stormy 😁
 
  <div>
-  <a href="https://github.com/stormy">
+  <a href="https://github.com/stormye">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stormy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormy&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
